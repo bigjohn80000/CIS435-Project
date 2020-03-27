@@ -19,7 +19,8 @@ Year: This talks about the years which these events occured and it is siginifcan
 
 Questions:
 
-Questions 1: Does the amount of breaches have a positive correlation with the continuous variable time?
+Question 1: Does the amount of breaches have a positive correlation with the continuous variable time?
+Question 2: Is there a relationship between number of breaches and breach year? if so is it statistically significant?
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
