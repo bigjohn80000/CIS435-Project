@@ -22,6 +22,7 @@ Questions:
 Question 1: Does the amount of breaches have a positive correlation with the continuous variable time?
 Question 2: Is there a relationship between number of breaches and breach year? if so is it statistically significant?
 Question 3: Are certain devices more susceptible to data breaches according to the data given?
+Question 4: Which state has the largest number of individuals affected by data breaches? What type of data breach was dominant?
 
 
 
