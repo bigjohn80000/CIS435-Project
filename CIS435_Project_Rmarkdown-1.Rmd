@@ -21,14 +21,15 @@ Questions:
 
 Question 1: Does the amount of breaches have a positive correlation with the continuous variable time?
 Question 2: Is there a relationship between number of breaches and breach year? if so is it statistically significant?
-Questions 3: Are certain devices more susceptible to data breaches according to the data given?
+Question 3: Are certain devices more susceptible to data breaches according to the data given?
+
 
 
 
 What we are going to do to meet our goals?
 The ways we are going to meet our goals and answer the following questions 
 is use the techniques given to us in class and use while using those techniques 
-will help us understand the trends and corrleation of the data set. 
+will help us understand the trends and corrleation of the data set. We 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
