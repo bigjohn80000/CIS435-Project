@@ -25,8 +25,10 @@ Questions 3: Are certain devices more susceptible to data breaches according to 
 
 
 
-
-The ways we are going to meet our goals and answer the following questions is use the techniques given to us in class and use while using those techniques will help us understand the trends and corrleation of the data set. 
+What we are going to do to meet our goals?
+The ways we are going to meet our goals and answer the following questions 
+is use the techniques given to us in class and use while using those techniques 
+will help us understand the trends and corrleation of the data set. 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
