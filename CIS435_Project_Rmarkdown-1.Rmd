@@ -53,3 +53,16 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Code Used to Clean Our Data
+Removed columns that were irrelevent to the questions we wanted to answer.
+We also needed to fix a name of one of the companies.
+
+library(dplyr)
+library(tidyverse)
+
+
+CIS_435_project_data <- select(CIS_435_project_data, -c(X1, date_start, date_end, Date_Posted_or_Updated))
+
+CIS_435_project_data <- CIS_435_project_data %>%
+  mutate(Business_Associate_Involved=recode(Business_Associate_Involved, 'Accretive Health, Inc'='Accretive Health'))
