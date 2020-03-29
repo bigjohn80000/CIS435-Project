@@ -66,3 +66,8 @@ CIS_435_project_data <- select(CIS_435_project_data, -c(X1, date_start, date_end
 
 CIS_435_project_data <- CIS_435_project_data %>%
   mutate(Business_Associate_Involved=recode(Business_Associate_Involved, 'Accretive Health, Inc'='Accretive Health'))
+
+
+
+
+
