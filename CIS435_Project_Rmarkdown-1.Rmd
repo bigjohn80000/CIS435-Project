@@ -19,18 +19,23 @@ Year: This talks about the years which these events occured and it is siginifcan
 
 Questions:
 
-Question 1: Does the amount of breaches have a positive correlation with the continuous variable time?
-Question 2: Is there a relationship between number of breaches and breach year? if so is it statistically significant?
-Question 3: Are certain devices more susceptible to data breaches according to the data given?
-Question 4: Which state has the largest number of individuals affected by data breaches? What type of data breach was dominant?
-
+Question 1: Is there a relationship between number of breaches and breach month and year? if so is it statistically significant?
+Graph: Line Graph 
+Question 2: Are certain devices more susceptible to data breaches according to the data given?
+Graph: Bar Chart (We will also conduct a hypothesis test)
+Question 3: Which state has the largest number of individuals affected by data breaches? What type of data breach was dominant?
+Graph: Bar Chart
+Question 4: Is there a correlation between the type of breach and the device that was breached?
+Graph: Mosaic chart
+Question 5: Is there a correlation between the type of breach and the number of indiviuals effected?
+Graph: Bar Chart
 
 
 
 What we are going to do to meet our goals?
 The ways we are going to meet our goals and answer the following questions 
 is use the techniques given to us in class and use while using those techniques 
-will help us understand the trends and corrleation of the data set. We 
+will help us understand the trends and corrleation of the data set. We will use the graphs we determine are best to visualize the data and make final conlusions based off of them.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
