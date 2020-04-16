@@ -37,7 +37,7 @@ Graph: Mosaic chart
 Question 5: Is there a correlation between the type of breach and the number of indiviuals effected?
 Graph: Bar Chart
 
-Question 6: do healthcare facilities account for more than 50% of the data breaches in the data set? And is there a relationship between the businesses that have hosipital or health in the name and individuals affected?
+Question 6: do healthcare facilities account for more than 50% of the data breaches in the data set? And is there a relationship between the businesses that have hosipital, health, or medical in the name and individuals affected?
 
 
 
