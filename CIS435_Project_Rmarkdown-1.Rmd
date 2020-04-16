@@ -12,6 +12,19 @@ Kingsley Okereke
 Description of Project:
   This project will give a detailed analysis of data breaches in cybersecurity in the United States of America spanning from 2009 to 2014. This analysis will cover the number of breaches, the name of the business or entity breached. The state in which the breach took place.  The person or business involved or responsible for the breach. the number of people affected by the breach, and the date the breach took place.
   
+  
+  
+  
+   Dr Q's question's/comments about phase 1:
+  are you going to develop a model that will help develop 
+  suppose you have a new breach what would you do with the new data?
+  build a prediction model to classify the breach type.
+  predict class or type of breach. classification 
+   if we want full credit: compare between 3 different models to show breach type "SVM model" 
+  variables, data types, number of breaches, give credit to dataset people citations, date we got access to data set.
+  training and validation data set. 
+  
+  
 Data Set:
 
 Date of Breach: This describes when the breach of data occured for the company in question and the date is siginficant on the being able to track on different plots certain patterns dealing with other columns in the data set.
