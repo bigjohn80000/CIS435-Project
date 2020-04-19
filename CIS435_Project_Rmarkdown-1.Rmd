@@ -43,7 +43,7 @@ Question 1: Is there a relationship between number of breaches and breach month 
 Graph: Line Graph 
 Question 2: Are certain devices more susceptible to data breaches according to the data given?
 Graph: Bar Chart (We will also conduct a hypothesis test)
-Question 3: Which state has the largest number of individuals affected by data breaches? What type of data breach was dominant?
+Question 3: Which states have the largest number of individuals affected by data breaches? What type of data breach was dominant?
 Graph: Bar Chart
 Question 4: Is there a correlation between the type of breach and the device that was breached?
 Graph: Mosaic chart
