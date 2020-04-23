@@ -15,7 +15,7 @@ Description of Project:
   
   
   
-   Dr Q's question's/comments about phase 1:
+   Dr Q's question's/comments about phase 1:------------------------------------------
   are you going to develop a model that will help develop 
   suppose you have a new breach what would you do with the new data?
   build a prediction model to classify the breach type.
@@ -23,6 +23,38 @@ Description of Project:
    if we want full credit: compare between 3 different models to show breach type "SVM model" 
   variables, data types, number of breaches, give credit to dataset people citations, date we got access to data set.
   training and validation data set. 
+  ------------------------------------------
+  
+  Dr.Q Phase 2 comments:------------------------------------------------------------------------
+  do sections and address questions in a more organized way 
+  we need to have a conclusion after every question , and a little preamble before the address the question and data.
+  if we have a graph we should mention something about the graph in our conclusion.
+  
+  "as we can see in number 3 graph we can see that this graph shows ..."
+  
+  questions/comments for q3: we need justification for why this helps to make a decsion
+  repeat the question to address
+  
+  organize the report to be readable and better suitable for delivering to someone to make decisions. 
+  
+  comment q4: how does this help a company protect there things against cyber related disclosures. need a full conclusion and preamble to the question this is not enough.
+  
+  
+  Final report: 
+  
+  confusion matrix
+  specificity
+  comparing models
+  need atleast 2 models
+  MODELS MOST IMPORTANT AND COMPARE TO BEST FITMENT OF MODEL. predict 
+  logistic model
+  SVM model
+  
+  READ CAREFULLY FOR PHASE 3 AND ANSWER ALL QUESTIONS TO GET FULL CREDIT
+  ALL MEMEBERS SHOULD KNOW EVERYTHING ABOUT THE WHOLE PROJECT NOT JUST THE QUESTION THEY ANSWERED.
+  
+  -------------------------------------------------------------------------------
+  
   
   
 Data Set:
