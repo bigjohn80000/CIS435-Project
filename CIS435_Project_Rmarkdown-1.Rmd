@@ -55,6 +55,9 @@ Description of Project:
   
   -------------------------------------------------------------------------------
   
+  phase 3 meeting comments: ---------------------------------------------------------------------------------------------
+  dont need super high accuracy for models,  compare between them and choose which is the best fit one for data set
+   ---------------------------------------------------------------------------------------------------------------------
   
   
 Data Set:
