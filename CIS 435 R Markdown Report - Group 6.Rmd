@@ -1,0 +1,26 @@
+---
+title: "USA Cybersecurity Breaches 2009 - 2014"
+author: 'Group 6: John Haag, Nick Staub, Sean Edwards, Zach Kovalenko, Kingsley Okereke'
+date: "5/3/2020"
+output: html_document
+---
+
+Abstract
+
+  In this project the members of Group 6 worked with data from a database that held information regarding Cybersecurity Breaches in the USA between the years 2009 and 2014. Contained in this report is a detailed analysis of the recorded data breaches. We came to a few conclusions after using the data and information we extracted that could be used to help a company or individual understand the potential cybersecurity threat that they face.
+
+Introduction
+
+  For this project we used data on Cybersecurity Breaches in the USA to find useful information from the data. Our group examined each given category of data in the database in order to create goals and find appropriate questions that we would use in to get our answers. The In the data set we were provided the name of each entity attacked, any potential business associate involved, the number of individuals affected, as well as the type of breach. The exact setting of each breach is also given in the data. It covers what state the breach took place, what time the breach started and ended, the year, and when the breach was recorded. Each data entry also contains a summary of each incident. We were able to clean the data in order to make it suitable to answer our questions. With the aforementioned data we used techniques learned in class to understand the relationships, correlations, and to visualize our data. 
+
+Initial Goals
+
+  We were able to answer a number of questions with this dataset. We were able to see the correlation of security breaches over time. This can help us recognize the effectiveness of security in the battle against hackers. As breeches continues to increase over time (as we can see in the Breeches Over Time Graph) companies can see that advance and investing in security will always be an important priority. We also want to see if there is a correlation between the type of breaches and the number of individuals effected by the breach. This information would be useful so companies can recognize what kinds of security they should invest the most in. When we saw we had records of the type of device that was breached in our data set we wanted to know if certain devices are statistically more susceptible to data breaches than others. This information would be similarly useful to our last question. The information can help companies recognize what pieces of hardware they need to be more careful with, if any. A fourth piece of information we wanted to visualize is to see if there is any correlation between the number of breaches and location(state). Lastly, we want to use a mosaic chart to show the relationship between the different types of breaches and the total number of breaches in the dataset. This can also show which breaches occur the most often. This can also be important for decision making on security investments. 
+
+Data Set
+
+  Our data is various information regarding data breaches in the US. Some of the information stored is in regards to the data of the data breach, number of individuals effected, the company effected and more. We did have to clean a few things in our dataset. We removed a few columns that we felt were irrelevant to the information we were trying to gather. We also had to fix some of the names of the companies because some of the were misspelled or had and extra punctuation mark. We also had to recode all of the dates to change them from character strings to the actual date datatype. This made it easier for us to sort, gather, and group data by date, which was important to find the correlation between number of breaches over time. We found our data set at: https://public.tableau.com/profile/chris1505#!/vizhome/DatasetExplorationandDowbload/DatabaseDash?publish=yes.
+
+Data Analysis and Modeling
+
+Final Outcomes and Analysis
